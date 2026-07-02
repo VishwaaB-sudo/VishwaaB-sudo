@@ -93,11 +93,11 @@ A professional portfolio showcasing
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/vishwaa-b-117653386?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://YOUR_PORTFOLIO_LINK)
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email]([https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL](https://mail.google.com/mail/u/0/#inbox))
 
 ---
 
