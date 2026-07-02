@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vishwaa B//.
+# Hi there 👋, I'm Vishwaa B
 
 ### 💻 Computer Science & Engineering Student | AI & Full Stack Enthusiast | Problem Solver
 
